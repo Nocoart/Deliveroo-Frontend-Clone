@@ -1,0 +1,23 @@
+header {
+	height: 60px;
+}
+
+header .container {
+	width: 96vw;
+	max-width: 1200px;
+	margin: 0 auto;
+	display: flex;
+	align-items: center;
+	height: 60px;
+}
+
+header .logo {
+	height: 40px;
+}
+
+hr {
+	height: 1px;
+	border: none;
+	margin-top: -2px;
+	background-color: #efefef;
+}

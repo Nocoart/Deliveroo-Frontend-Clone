@@ -1,0 +1,24 @@
+.top-restaurant {
+	width: 96vw;
+	max-width: 1200px;
+	margin: 0 auto;
+	display: flex;
+	gap: 30px;
+	align-items: top;
+	margin-top: 30px;
+	padding-bottom: 30px;
+}
+.top-restaurant img {
+	width: 350px;
+	border-radius: 5px;
+}
+
+.top-restaurant h1 {
+	color: #2e3333;
+	font-size: 2rem;
+}
+
+.top-restaurant p {
+	color: #868a8a;
+	font-size: 1.2rem;
+}

@@ -1,0 +1,51 @@
+.menu-item-text {
+	flex: 1 1;
+	margin-right: 15px;
+}
+.menu-item-text h3 {
+	font-weight: 400;
+	margin: 0 0 0.5rem;
+}
+.menu-item-text p {
+	font-size: 0.9rem;
+	color: #808484;
+	line-height: 1.3rem;
+	height: 2.6rem;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	margin: 0 0 1rem;
+}
+
+.menu-item-info {
+	display: flex;
+	align-items: center;
+}
+
+.menu-item-price {
+	color: #808484;
+	font-size: 1.1rem;
+}
+
+.menu-item-popular {
+	color: #ff8000;
+	font-size: 0.8rem;
+	margin-left: 1rem;
+	font-weight: 800;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+.menu-item-picture {
+	height: 130px;
+	width: 130px;
+	border-radius: 5px;
+	overflow: hidden;
+	position: relative;
+}
+
+.menu-item-picture img {
+	height: 100%;
+	width: 100%;
+	object-fit: cover;
+}

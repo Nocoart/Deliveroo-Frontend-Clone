@@ -1,0 +1,13 @@
+.content {
+	background-color: #f3f5f5;
+}
+
+.content-center {
+	margin: 0 auto;
+	width: 96vw;
+	max-width: 1200px;
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	color: #2e3333;
+}
